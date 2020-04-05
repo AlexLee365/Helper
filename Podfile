@@ -7,4 +7,9 @@ target 'Helper' do
 
   # Pods for Helper
 
+  pod 'RxCocoa'
+  pod 'RxSwift'
+  pod 'RxKeyboard'
+  pod 'SnapKit'
+
 end
